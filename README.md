@@ -1,2 +1,1 @@
-# ayugram-desktop
-Transfered to ayugram-ports/ayugram-desktop
+# Sorry but we transfered repo to ayugram-ports/ayugram-desktop
